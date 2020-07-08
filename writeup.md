@@ -30,7 +30,7 @@ The goals / steps of this project are the following:
 [image11]: ./examples/top5_5.jpg "Top 5"
 [image12]: ./examples/top5_6.jpg "Top 5"
 [image13]: ./examples/top5_7.jpg "Top 5"
-[image14]: ./examples/top5_7.jpg "Top 5"
+[image14]: ./examples/top5_8.jpg "Top 5"
 
 
 ## Rubric Points
@@ -120,10 +120,10 @@ I used LeNet model architecture, just added dropout before Fully connected layer
 
 To train the model, I used an AdamOptimizer. Hyperparametres I used are the following:
 
-number of epochs: 100
-batch size: 128
-keep probability of the dropout layer in training set: 0.5
-learning rate: 0.001
+- number of epochs: 100
+- batch size: 128
+- keep probability of the dropout layer in training set: 0.5
+- learning rate: 0.001
 
 
 
